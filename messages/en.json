@@ -1,0 +1,18 @@
+{
+  "brand": "RoktoLagbe",
+  "tagline": "Every Drop Counts — Community Blood Network across Bangladesh",
+  "nav": {
+    "findDonor": "Find Donor",
+    "requests": "Blood Requests",
+    "bloodBanks": "Blood Banks",
+    "camps": "Camps",
+    "awareness": "Awareness",
+    "dashboard": "Dashboard",
+    "login": "Log In",
+    "register": "Become a Donor"
+  },
+  "cta": {
+    "emergencyRequest": "Request Blood",
+    "searchDonors": "Search Donors"
+  }
+}
